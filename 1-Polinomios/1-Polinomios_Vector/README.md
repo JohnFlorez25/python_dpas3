@@ -13,3 +13,9 @@ La siguiente figura muestra la representación del polinomio en un vector forma 
 En su forma general, un polinomio representado como vector forma 1 quedaría definido de la siguiente manera:
 
 ![Polinomio Forma General](../../assets/polinomios/polinomio_6.png)
+
+## Métodos Principales Polinomios representados como Listas (Vectores)
+
+1. [Mostrar]()
+2. [Ajustar]()
+3. [Sumar]()
