@@ -6,16 +6,18 @@
 
 Un **polinomio** es una expresión algebraica conformada por una suma de términos, donde cada término es el producto de una constante (coeficiente) y una variable elevada a una potencia entera no negativa.
 
+![Partes de un Polinomio](../assets/polinomios/polinomio_1.png)
+
 En términos generales, un polinomio en una variable \( x \) se expresa como:
 
-\[
-P(x) = a_n x^n + a_{n-1} x^{n-1} + \dots + a_1 x + a_0
-\]
+![Partes de un Polinomio](../assets//polinomios/polinomio_2.png)
 
 Donde:
 - \( a_n, a_{n-1}, ..., a_1, a_0 \) son coeficientes del polinomio.
 - \( x \) es la variable.
 - \( n \) es el grado del polinomio, que corresponde al mayor exponente de \( x \) con coeficiente distinto de cero.
+
+
 
 ### Propiedades Fundamentales
 
